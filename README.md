@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexleon2411" alt="alexleon2411" /></a> </p>
 
-- 🔭 I’m currently working on [Le-auto](https://le-auto-alexleon2411.herokuapp.com/)
 
 - 🌱 I’m currently learning **React, Python, Nodejs**
 
