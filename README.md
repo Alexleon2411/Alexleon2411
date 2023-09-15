@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Leon</h1>
-<h3 align="center">A passionate frontend developer from Venezuela living in Belgiu</h3>
+<h3 align="center">A passionate frontend developer from Venezuela living in Belgium</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexleon2411&label=Profile%20views&color=0e75b6&style=flat" alt="alexleon2411" /> </p>
 
