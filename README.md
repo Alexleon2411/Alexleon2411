@@ -6,17 +6,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexleon2411" alt="alexleon2411" /></a> </p>
 
 
-- 🌱 I’m currently learning **React, PHP, Nodejs**
+- 🌱 I’m currently learning **React, postgres**
 
 - 👯 I’m looking to collaborate on **any project**
 
 - 👨‍💻 All of my projects are available at [Alexleon2411](Alexleon2411)
 
-- 💬 Ask me about **Ruby, CSS, HTML**
+- 💬 Ask me about **Ruby, CSS, HTML, Vue.js, PHP, Python, Javascript, Kubernetes, Docker**
 
 - 📫 How to reach me **alejandroleon1124@gmail.com**
 
-- ⚡ Fun fact **I never expected to be a developer**
+- ⚡ Fun fact **I have difficulties in being sociable**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
