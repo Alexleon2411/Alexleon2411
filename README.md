@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexleon2411" alt="alexleon2411" /></a> </p>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C#, .Net**
 
 - 👯 I’m looking to collaborate on **any project**
 
